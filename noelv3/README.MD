@@ -43,4 +43,4 @@ PS C:\Users\hentai> & python c:/Users/hentai/OneDrive/Desktop/CTF/PIS/noelv3/san
 PS C:\Users\hentai> 
 ```
 
-# thank HADES với vài chốt khá là hay  shout-out for hades
+# thank HADES với bài chốt khá là hay  shout-out for hades
