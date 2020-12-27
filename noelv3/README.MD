@@ -42,3 +42,5 @@ PS C:\Users\hentai> & python c:/Users/hentai/OneDrive/Desktop/CTF/PIS/noelv3/san
 [+] Gift3:ChristCTF{merry_christmas_2020!!!h4d35w!7h10v3} 
 PS C:\Users\hentai> 
 ```
+
+# thank HADES với vài chốt khá là hay  shout-out for hades
